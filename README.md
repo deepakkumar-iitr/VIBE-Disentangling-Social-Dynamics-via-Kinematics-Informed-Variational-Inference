@@ -46,16 +46,8 @@ VIBE sets a new benchmark for group affect prediction, consistently outperformin
 
 | Dataset | Accuracy | F1 Score |
 | --- | --- | --- |
-| **VGAF** | <br>**70.17%** 
-
- | 0.701 
-
- |
-| **GECV** | <br>**91.85%** 
-
- | 0.915 
-
- |
+| **VGAF** | <br>**70.17%** | 0.701 |
+| **GECV** | <br>**91.85%** | 0.915 |
 
 Performance consistently peaks when the model tracks around 8 agents ($K=8$), effectively capturing the primary affective circle.
 
